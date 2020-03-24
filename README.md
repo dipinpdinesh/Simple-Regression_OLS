@@ -1,2 +1,2 @@
-# dipinpdinesh
-Simple Regression Problem : OLS
+
+# Simple Regression: OLS
